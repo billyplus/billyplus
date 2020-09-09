@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a backend devoloper living in China.
 
 - 🔭 I’m currently working on: behavior tree ai, distributed game server
-- 🌱 My skills: golang, lua, typescript, c++, nodejs, redis, mysql, grpc...
+- 🌱 My skills: golang, lua, typescript, c++, nodejs, redis, rabbitmq, mysql, grpc...
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=billyplus&count_private=true&show_icons=true&hide=contribs)
 
